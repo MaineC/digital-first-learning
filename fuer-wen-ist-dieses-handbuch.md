@@ -8,16 +8,26 @@ description: Awesome List für Software zur Kommunikation und Organisation
 
 Es gibt bereits ein großes Repertoire an Software sowie Anbietern von kommerziellem Support die Schulen auf dem Weg durch den digitalen Wandel begleiten.
 
-#### Softwarepakete unter freien Lizenzen
+#### Allgemeine Informationsseiten
 
 * [https://schul-frei.org/](https://schul-frei.org/) ... Empfehlungen für freie Software für Kommunikation und Organisation
-* [https://nextcloud.com/](https://nextcloud.com/) ... Gemeinsame Bearbeitung und Austausch von Dokumenten, Kommunikation
+* [https://publiccode.eu/](https://publiccode.eu/) ... Warum ist es eigentlich wichtig, unter welche Lizenz öffentliche software steht?
 
-#### Professional Support
+## Themen
 
-Liste von Unternehmen, die Schulträger gerne beim Einsatz der oben genannten Software unterstützen:
+### Streaming - öffentlich und für alle
 
-* [https://nextcloud.com/](https://nextcloud.com/) ... Support für die gleichnamige Software
+* [https://www.youtube.com/](https://www.youtube.com/)
+* [https://www.twitch.tv/](https://www.twitch.tv/)
+
+### Videokonferenzen - für zwei, oder für Gruppen
+
+* [https://jitsi.org/](https://jitsi.org/)
+* [https://bigbluebutton.org/](https://bigbluebutton.org/)
+
+### Dokumente teilen
+
+* [https://nextcloud.com/](https://nextcloud.com/)
 
 
 
