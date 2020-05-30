@@ -12,6 +12,8 @@ Es gibt bereits ein großes Repertoire an Software sowie Anbietern von kommerzie
 
 * [https://schul-frei.org/](https://schul-frei.org/) ... Empfehlungen für freie Software für Kommunikation und Organisation
 * [https://publiccode.eu/](https://publiccode.eu/) ... Warum ist es eigentlich wichtig, unter welcher Lizenz öffentliche Software steht?
+* [https://wirlernenonline.de/](https://wirlernenonline.de/) ... Informationen rund um das Thema Online Lernen
+* [https://openeducationday.ch/bisherige\_events/](https://openeducationday.ch/bisherige_events/) ... Open Education Day
 
 ## Themen
 
