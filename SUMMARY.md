@@ -9,10 +9,12 @@
 * [Rechnen lernen](science-tech-eng-math/rechnen-lernen.md)
 * [Softwareentwicklung](science-tech-eng-math/softwareentwicklung.md)
 * [Informationsflüsse](science-tech-eng-math/informationsfluesse.md)
+* [Digital selbst aktiv werden](science-tech-eng-math/digital-selbst-aktiv-werden.md)
 
 ## Deutsch
 
 * [Für Bücherwürmer](deutsch/fuer-buecherwuermer.md)
+* [Zum Lesen lernen](deutsch/zum-lesen-lernen.md)
 
 ## Musik
 

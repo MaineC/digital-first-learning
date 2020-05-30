@@ -15,4 +15,5 @@ description: Awesome list für Zugriff auf Bücher
 * Tigerbook - ^^
 * Overdrive - ^^
 * [https://www.gutenberg.org/](https://www.gutenberg.org/) ... gemeinfreie Bücher zum Onlinelesen
+* [https://www.einfachvorlesen.de/](https://www.einfachvorlesen.de/) ... regelmäßig neue altersgerechte Geschichten
 

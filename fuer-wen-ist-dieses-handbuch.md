@@ -11,7 +11,7 @@ Es gibt bereits ein großes Repertoire an Software sowie Anbietern von kommerzie
 #### Allgemeine Informationsseiten
 
 * [https://schul-frei.org/](https://schul-frei.org/) ... Empfehlungen für freie Software für Kommunikation und Organisation
-* [https://publiccode.eu/](https://publiccode.eu/) ... Warum ist es eigentlich wichtig, unter welche Lizenz öffentliche software steht?
+* [https://publiccode.eu/](https://publiccode.eu/) ... Warum ist es eigentlich wichtig, unter welcher Lizenz öffentliche Software steht?
 
 ## Themen
 
@@ -28,6 +28,10 @@ Es gibt bereits ein großes Repertoire an Software sowie Anbietern von kommerzie
 ### Dokumente teilen
 
 * [https://nextcloud.com/](https://nextcloud.com/)
+
+### Aufgaben und Kurse verwalten
+
+* [https://moodle.org/](https://moodle.org/)
 
 
 

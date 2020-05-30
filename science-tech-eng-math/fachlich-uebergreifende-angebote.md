@@ -8,3 +8,7 @@
 
 * Erzähl mir was von Himmel und Erde - [https://www.booklooker.de/B%C3%BCcher/Angebote/titel=Erz%C3%A4hl+mir+was+vom+Himmel+und+der+Erde](https://www.booklooker.de/B%C3%BCcher/Angebote/titel=Erz%C3%A4hl+mir+was+vom+Himmel+und+der+Erde)
 
+### Zum Spielen
+
+* [https://www.khanacademy.org/](https://www.khanacademy.org/) ... Khan Academy, in großen Teilen Englisch
+
